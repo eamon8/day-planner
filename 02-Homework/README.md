@@ -24,4 +24,4 @@ The following image demonstrates the web application's appearance:
 
 To view the working app use the link below:
 
-[https://eamon8.github.io/day-planner/.]
+[https://eamon8.github.io/day-planner/]
