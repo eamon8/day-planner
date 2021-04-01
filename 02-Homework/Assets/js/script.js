@@ -10,14 +10,11 @@ var sData = {};
 console.log(time);
 for(x of hours){
 if(x == time ){
-var present = $("#"+this)
-present.addClass("present")
+    ("#"+this).addClass("present")
 }else if(x > time){
-var future = $("#"+this)
-curennt.addClass("future")
+    ("#"+this).addClass("future")
 }else{
-    var past = $("#"+this)
-    past.addClass("past")    
+    ("#"+this).addClass("past")    
 }
 }
 
